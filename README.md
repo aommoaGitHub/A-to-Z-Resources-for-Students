@@ -23,6 +23,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 *Image credits: Google*
 
+## This repo is my interesting PR
+My task of my course is choose my interesting PR. I like your passion to create this repository. 
+
+
 ## Table of Contents :clipboard:
 
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
